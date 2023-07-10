@@ -11,3 +11,5 @@ What is Git Stash?
 Git Stash is a command that allows you to temporarily save changes that are not ready to be committed yet, so you can switch to a different branch or work on something else
 4
 5676767
+
+5655555555555555555
