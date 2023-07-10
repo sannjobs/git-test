@@ -1,0 +1,13 @@
+Intermediate Git Interview Questions:
+What does the git push command do?
+The git push command is used to push the content in a local repository to a remote repository. After a local repository has been modified, a push is executed to share the modifications with remote team members
+1
+.
+What is the difference between git fetch and git pull?
+Git fetch downloads new data from a remote repository, but it doesn’t integrate any of the downloaded data into your working files. Git pull, on the other hand, downloads new data and integrates it into your working files
+5
+.
+What is Git Stash?
+Git Stash is a command that allows you to temporarily save changes that are not ready to be committed yet, so you can switch to a different branch or work on something else
+4
+.
